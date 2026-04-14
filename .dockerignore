@@ -1,0 +1,6 @@
+**/dist
+**/node_modules
+**/.parcel-cache
+**/.git
+**/.gitignore
+**/.dockerignore
